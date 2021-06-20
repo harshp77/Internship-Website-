@@ -55,7 +55,7 @@ Your new HTML website will immediately have publishable and documented code, and
 
 Harsh Pandey - (harsh20101@iiitnr.edu.in)  
 Abhishek Kerketta - (abhishek20101@iiitnr.edu.in)  
-Vishal Nitnaware - (harsh20101@iiitnr.edu.in)  
+Vishal Nitnaware - (vishal20102@iiitnr.edu.in)  
 Project Link: [https://github.com/harshp77/Internship-Website-](https://github.com/harshp77/Internship-Website-)
 
 
