@@ -36,7 +36,7 @@ Now we continue to run the host server
 
 Your new HTML website will immediately have publishable and documented code, and all these features:
 
- - Deploy using `python manage.py runnserver` (and you don't need to be a nerd to use it)
+ - Deploy using `python manage.py runserver` (and you don't need to be a nerd to use it)
  - Clean folder structure
  - Commented at each step for each lookaround
  - works on Django Framework
